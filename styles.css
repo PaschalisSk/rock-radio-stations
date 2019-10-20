@@ -1,0 +1,34 @@
+body{
+  background: #009688;
+  min-height: 0px;
+}
+
+#wrapper{
+  margin: auto;
+  width: 70%;
+}
+
+.mdl-card {
+  margin: auto;
+  margin-top: 38px;
+  background: #00BFA5;
+  min-height: 0px;
+  width: 316px;
+}
+
+#stations-list{
+  margin-top: 30px;
+}
+
+#stations-list button{
+  width: 100px;
+  height: 100px;
+  padding: 8px;
+  margin-bottom: 30px;
+  background: #00BFA5;
+}
+
+#stations-list img{
+  width: 100%;
+  height: 100%;
+}
